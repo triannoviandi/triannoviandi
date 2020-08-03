@@ -1,4 +1,4 @@
-![Social banner for trian](https://i.imgur.com/ow3hxH8.jpg)
+![Social banner for trian](https://imgur.com/wRcnpYj.jpg)
 
 - :blue_heart: Flutter Addict
 - :e-mail: triannoviandi00@gmail.com
